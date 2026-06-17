@@ -3,3 +3,4 @@ scapy
 requests
 fpdf
 psutil
+scikit-learn
